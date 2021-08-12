@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 03 JavaScript: Password Generator
 
 ## Your Task
@@ -90,3 +91,9 @@ You are required to submit the following for review:
 
 - - -
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+=======
+# javascriptpassword
+Creating a javascript password generator that will result in a new password every time the generate button is clicked on. 
+https://williamskarina.github.io/javascriptpassword/
+
+>>>>>>> be762e4e3a436f01a190e97baf5eadce0a20ae0c
